@@ -1,7 +1,7 @@
 # Algorithm-Study
 
 - 그리디
-- 구현
+- 구현 (Implementation Algorithm)
 - DFS/BFS
 - 정렬
 - 이진탐색
