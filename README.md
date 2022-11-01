@@ -1,6 +1,6 @@
 # Algorithm-Study
 
-- 그리디 (Greedy)
+- 그리디 (Greedy Algorithm)
 - 구현 (Implementation Algorithm)
 - DFS/BFS
 - 정렬
