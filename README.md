@@ -2,7 +2,7 @@
 
 - 그리디 (Greedy Algorithm)
 - 구현 (Implementation Algorithm)
-- DFS/BFS
+- DFS/BFS 
 - 정렬 
 - 이진탐색
 - 다이나믹 프로그래밍
